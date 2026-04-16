@@ -1,4 +1,4 @@
-# Tarea 3 - Procesamiento de Datos con Apache Spark
+# Tarea 3 - Procesamiento de Datos con Apache Spark - Cristian Rendon Unad
 
 ## Descripción
 Este proyecto corresponde a la Tarea 3 del curso Big Data. Presenta una propuesta de procesamiento de datos con Apache Spark en dos enfoques: procesamiento batch y procesamiento en tiempo real con Apache Kafka y Spark Streaming.
